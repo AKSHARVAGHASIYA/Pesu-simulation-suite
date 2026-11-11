@@ -1,0 +1,2 @@
+F:\PESU Simulation Suite\PESU Simulation Suite\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+F:\PESU Simulation Suite\PESU Simulation Suite\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
